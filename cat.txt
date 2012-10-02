@@ -1,1 +1,11 @@
 Felix Cat
+Revisando el tutorial de ProGit on line
+
+Configurando Git por primera vez
+
+
+Tu identidad, archivo: ~/.gitconfig (ubicado en el directorio del usuario)
+$git config --global user.name "Daniel Oscategui"
+$git config --global user.email danieloscategui@gmail.com
+
+
