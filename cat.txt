@@ -8,4 +8,4 @@ Tu identidad, archivo: ~/.gitconfig (ubicado en el directorio del usuario)
 $git config --global user.name "Daniel Oscategui"
 $git config --global user.email danieloscategui@gmail.com
 
-
+Util para saber quien es esta realizand los commit.
