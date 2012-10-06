@@ -1,4 +1,5 @@
-===Primeros pasos con Git
+Primeros pasos con Git
+====
 
 ###Usando ejemplos del libro Pro Git
 
