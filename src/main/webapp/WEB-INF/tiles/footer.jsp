@@ -6,6 +6,3 @@
 		format : 'dd/mm/yyyy'
 	});
 </script>
-
-</body>
-</html>
