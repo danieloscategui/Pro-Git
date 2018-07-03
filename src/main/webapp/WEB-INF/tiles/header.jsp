@@ -1,45 +1,39 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
 <a href="home" class="logo">
-  <span class="logo-mini">Logo</span>
-  <span class="logo-lg">Logo</span>
+  <span class="logo-mini"><b>A</b>LT</span>
+  <span class="logo-lg"><b>Admin</b>LTE</span>
 </a>
+
 <nav class="navbar navbar-static-top">
 
-   <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+   <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
      <span class="sr-only">Toggle navigation</span>
+     <span class="icon-bar"></span>
+     <span class="icon-bar"></span>
+     <span class="icon-bar"></span>
    </a>
+
+	<!-- search form -->
+	<!-- 
+    <form action="#" method="get" class="sidebar-form">
+        <div class="input-group">
+          <input type="text" name="q" class="form-control input-sm" placeholder="Search...">
+          <span class="input-group-btn">
+          	<button type="submit" name="search" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i>
+                </button>
+          </span>
+        </div>
+    </form>
+	 -->
+    <!-- /.search form -->
 
    <div class="navbar-custom-menu">
      <ul class="nav navbar-nav">
      	<!-- 
        <li class="dropdown user user-menu">
-         
-         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-           <img src="bootstrap/img/user2-160x160.jpg" class="user-image" alt="User Image">
-           <span class="hidden-xs">Usuario</span>
-         </a>
-         
-         <ul class="dropdown-menu">
-           <li class="user-header">
-             <img src="/resources/bootstrap/img/user2-160x160.jpg" class="img-circle" alt="User Image">
-             <p>
-               <small>Usuario</small>
-             </p>
-           </li>
-           <li class="user-body">
-             <div class="pull-left">
-               <a href="#" class="btn btn-default btn-flat">Mi Perfil</a>
-             </div>
-             <div class="pull-right">
-               <a href="#" class="btn btn-default btn-flat">Cerrar Sesi&oacute;n</a>
-             </div>
-           </li>
-         </ul>
        </li>
      	 -->
-       
-       
      </ul>
    </div>
  </nav>

@@ -9,8 +9,8 @@
 		<put-attribute name="head" value="/WEB-INF/tiles/head.jsp"/>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"/>
 		<put-attribute name="sidebar" value="/WEB-INF/tiles/sidebar.jsp"/>
-		<put-attribute name="content" value="Demo Content"/>
-		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"/>
+		<put-attribute name="content" value="/WEB-INF/tiles/content.jsp"/>
+		<put-attribute name="js-libraries" value="/WEB-INF/tiles/js-libraries.jsp"/>
 	</definition>
 	
 	<!-- Home Page 

@@ -6,23 +6,26 @@
 <html lang="es">
 <head>
 	<tiles:insertAttribute name="head"/>
+	<tiles:insertAttribute name="js-libraries"/>
 </head>
 <body class="hold-transition skin-blue sidebar-mini">
 	<div class="wrapper">
 		<header class="main-header">
-			<tiles:insertAttribute name="header"/><br/>
+			<tiles:insertAttribute name="header"/>
 		</header>
 		<aside class="main-sidebar">
-			<tiles:insertAttribute name="sidebar"/><br/>
+			<tiles:insertAttribute name="sidebar"/>
 		</aside>
+		<!-- Content Wrapper. Contains page content -->
 		<div class="content-wrapper">
-			<section class="content">
-				<tiles:insertAttribute name="content"/><br/>
-			</section>
+			<tiles:insertAttribute name="content"/>
 		</div>
+		<footer class="main-footer">
+    	<div class="pull-right hidden-xs">
+      		<b>Version</b> 2.4.0
+    	</div>
+    	<strong>Copyright &copy; 2014-2016 <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights reserved.
+	  </footer>
 	</div>
-	<footer>
-		<tiles:insertAttribute name="footer"/>
-	</footer>
 </body>
 </html>
