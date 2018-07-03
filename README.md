@@ -7,6 +7,8 @@ Referencias
 
 [baeldung - Spring Boot Context Path](http://www.baeldung.com/spring-boot-context-path)
 
+[Apache Tiles Spring Configuration](http://javasampleapproach.com/spring-framework/spring-boot/how-to-start-with-apache-tiles-in-spring-boot)
+
 [Spring Reference - 2.0.3](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 [Spring Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
