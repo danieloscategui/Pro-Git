@@ -12,3 +12,5 @@ Referencias
 [Spring Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
 
 [Spring Boot Rest Api Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/)
+
+[AdminLTE v2.4.3](https://github.com/almasaeed2010/AdminLTE/releases/tag/v2.4.3)
